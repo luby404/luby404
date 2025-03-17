@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou James</h1>
+<h1 align="center">👋 Olá, eu sou Ricardo</h1>
 
 <p align="center">
   💻 Desenvolvedor Web | Backend | Fullstack <br>
