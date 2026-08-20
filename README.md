@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá, eu sou Ricardo</h1>
+<h1 align="left">👋 Olá, eu sou Ricardo</h1>
 
-<p align="center">
+<p align="left">
     Software Developer | Bac-kend Developer <br>
     Apaixonado por tecnologia, segurança cibernética e automação <br>
 </p>
